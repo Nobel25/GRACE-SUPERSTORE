@@ -25,7 +25,7 @@ This datasdet was obtained through a third party and handed to me by Neovarsity 
 
 TOOLS
 
-• Excel Data Extraction [www.superstore.dataset.com]
+• Excel Data Extraction
 
 • PowerBi - Data Cleansing
 
